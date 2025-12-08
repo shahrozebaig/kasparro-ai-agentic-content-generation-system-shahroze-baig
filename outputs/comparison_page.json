@@ -1,0 +1,89 @@
+{
+  "page_type": "comparison",
+  "product_a": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "price": {
+      "value": 699,
+      "currency": "INR"
+    }
+  },
+  "product_b": {
+    "product_name": "RadiantLift Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Aloe Vera"
+    ],
+    "benefits": [
+      "Brightening",
+      "Helps even out skin tone"
+    ],
+    "price": {
+      "value": 799,
+      "currency": "INR"
+    }
+  },
+  "comparison": {
+    "price": {
+      "GlowBoost Vitamin C Serum": {
+        "value": 699,
+        "currency": "INR"
+      },
+      "RadiantLift Vitamin C Serum": {
+        "value": 799,
+        "currency": "INR"
+      }
+    },
+    "concentration": {
+      "GlowBoost Vitamin C Serum": "10% Vitamin C",
+      "RadiantLift Vitamin C Serum": "10% Vitamin C"
+    },
+    "skin_type": {
+      "GlowBoost Vitamin C Serum": [
+        "Oily",
+        "Combination"
+      ],
+      "RadiantLift Vitamin C Serum": [
+        "Oily",
+        "Combination"
+      ]
+    },
+    "key_ingredients": {
+      "GlowBoost Vitamin C Serum": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "RadiantLift Vitamin C Serum": [
+        "Vitamin C",
+        "Aloe Vera"
+      ]
+    },
+    "benefits": {
+      "GlowBoost Vitamin C Serum": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "RadiantLift Vitamin C Serum": [
+        "Brightening",
+        "Helps even out skin tone"
+      ]
+    }
+  }
+}
