@@ -1,99 +1,20 @@
-# 🚀 Kasparro – Multi-Agent Content Generation System
+# 🚀 Multi-Agent Content Generation System
 
-A Python-based multi-agent automation system that transforms a single structured product dataset into multiple machine-readable JSON content pages using modular agents, reusable logic blocks, and a custom template engine.
-
----
-
-## 🗂️ Project Structure
-
-```
-kasparro-ai-agentic-content-generation-system/
-│
-├── agents/                    
-│   ├── parser_agent.py
-│   ├── question_agent.py
-│   ├── faq_agent.py
-│   ├── product_agent.py
-│   └── comparison_agent.py
-│
-├── logic_blocks/              
-│   ├── benefits_block.py
-│   ├── usage_block.py
-│   ├── safety_block.py
-│   └── comparison_block.py
-│
-├── templates/                
-│   ├── faq_template.py
-│   ├── product_template.py
-│   └── comparison_template.py
-│
-├── models/                    
-│   ├── product.py
-│   └── question.py
-│
-├── outputs/                   
-│   ├── faq.json
-│   ├── product_page.json
-│   └── comparison_page.json
-│
-├── orchestrator.py            
-├── input_data.py              
-└── README.md
-```
+This project is a Python-based multi-agent content generation system designed to demonstrate how a modular, production-style automation pipeline can transform a structured product dataset into multiple machine-readable JSON content pages. The system uses independent agents, reusable logic blocks, a custom template engine, and a centralized orchestrator to automatically generate a FAQ page, a product description page, and a comparison page with a fictional product. The focus of the project is on clean system architecture, agent orchestration, and deterministic, structured output generation rather than UI or prompt-based content creation.
 
 ---
 
-## 🔧 System Design
+## 🗂️ System Structure
 
-### Key Components
+<img width="923" height="1422" alt="Screenshot 2025-12-08 213226" src="https://github.com/user-attachments/assets/ec60cbbb-888a-4d45-be1e-b21057fad369" />
 
-**1. Parser Agent**
-- Converts raw input dictionary into structured `Product` model
-- Enforces data validation
+## Sequence diagram
 
-**2. Question Generation Agent**
-- Generates exactly 15 questions across 15 distinct categories
-- Produces structured `Question` objects
+<img width="1383" height="1474" alt="Screenshot 2025-12-08 213356" src="https://github.com/user-attachments/assets/ad5886d4-81c9-4174-bd0a-72a7dc886271" />
 
-**3. FAQ Agent**
-- Converts categorized questions into structured FAQ JSON
-- Uses logic blocks and templates
+## Flowchart
 
-**4. Product Page Agent**
-- Builds product description JSON using reusable logic blocks
-- Structures all product information
-
-**5. Comparison Agent**
-- Creates fictional Product B internally
-- Generates structured comparison JSON
-
-**6. Logic Blocks**
-- Benefits transformation
-- Usage extraction
-- Safety messaging
-- Ingredients extraction
-- Structured comparison logic
-
-**7. Template Engine**
-- Defines exact JSON structure for each page type
-- Specifies required fields and formatting rules
-
-**8. Orchestrator**
-- Controls execution order of agents
-- Ensures proper pipeline flow
-- Handles JSON file output
-
----
-
-## 📊 Data Flow
-
-1. Raw product data is loaded from `input_data.py`
-2. **Parser Agent** creates internal `Product` model
-3. **Question Agent** generates 15 categorized questions
-4. **FAQ Agent** generates `faq.json`
-5. **Product Page Agent** generates `product_page.json`
-6. **Comparison Agent** generates `comparison_page.json` with fictional Product B
-7. **Orchestrator** saves all outputs to `outputs/` directory
+<img width="1439" height="1538" alt="Screenshot 2025-12-08 213558" src="https://github.com/user-attachments/assets/c81d9c83-6f29-4cee-91f1-435d80b387e1" />
 
 ---
 
@@ -104,5 +25,3 @@ For detailed system design documentation, see:
 ```
 docs/projectdocumentation.md
 ```
-
----
