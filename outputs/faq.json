@@ -1,74 +1,37 @@
 {
-<<<<<<< HEAD
-  "product_name": "GlowBoost Vitamin C Serum",
   "faqs": [
     {
-      "question": "What is the concentration of Vitamin C in GlowBoost Vitamin C Serum?",
-      "answer": "The concentration of Vitamin C in GlowBoost Vitamin C Serum is 10%."
+      "question": "What is the product name of this serum?",
+      "answer": "The product name is GlowBoost Vitamin C Serum."
     },
     {
-      "question": "What skin types is GlowBoost Vitamin C Serum suitable for?",
-      "answer": "The GlowBoost Vitamin C Serum is suitable for Oily and Combination skin types."
+      "question": "What is the concentration of Vitamin C in this serum?",
+      "answer": "The concentration of Vitamin C in the GlowBoost Vitamin C Serum is 10%."
     },
     {
-      "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
-      "answer": "The key ingredients in GlowBoost Vitamin C Serum are Vitamin C and Hyaluronic Acid."
+      "question": "What skin types is this serum suitable for?",
+      "answer": "This serum is suitable for oily and combination skin types."
     },
     {
-      "question": "What are the benefits of using GlowBoost Vitamin C Serum?",
-      "answer": "The benefits of using GlowBoost Vitamin C Serum are Brightening and Fades dark spots."
+      "question": "What are the key ingredients of this serum?",
+      "answer": "The key ingredients of the \"GlowBoost Vitamin C Serum\" are Vitamin C and Hyaluronic Acid."
     },
     {
-      "question": "How do I use GlowBoost Vitamin C Serum?",
-      "answer": "To use GlowBoost Vitamin C Serum, apply 2-3 drops in the morning before applying sunscreen."
+      "question": "What benefits can I expect from using this serum?",
+      "answer": "You can expect the following benefits from using the GlowBoost Vitamin C Serum:\n\n- Brightening\n- Fades dark spots"
     },
     {
-      "question": "Can I use GlowBoost Vitamin C Serum at night?",
-      "answer": "No, it's recommended to use GlowBoost Vitamin C Serum in the morning before sunscreen, not at night."
+      "question": "How do I use this serum?",
+      "answer": "To use the GlowBoost Vitamin C Serum, apply 2-3 drops in the morning before applying sunscreen."
     },
     {
-      "question": "Will GlowBoost Vitamin C Serum cause any side effects?",
-      "answer": "Yes, GlowBoost Vitamin C Serum may cause mild tingling for sensitive skin."
+      "question": "Will this serum cause any side effects?",
+      "answer": "Yes, this serum may cause mild tingling for sensitive skin."
     },
     {
-      "question": "What are the possible side effects of GlowBoost Vitamin C Serum?",
-      "answer": "Mild tingling for sensitive skin."
-=======
-  "page_type": "faq",
-  "product_name": "GlowBoost Vitamin C Serum",
-  "faqs": [
-    {
-      "question": "What skin types is GlowBoost Vitamin C Serum suitable for?",
-      "answer": "It is suitable for Oily, Combination skin types."
-    },
-    {
-      "question": "What is the concentration of Vitamin C in GlowBoost Vitamin C Serum?",
-      "answer": "It contains 10% Vitamin C."
-    },
-    {
-      "question": "What are the key ingredients in GlowBoost Vitamin C Serum?",
-      "answer": "Vitamin C, Hyaluronic Acid"
-    },
-    {
-      "question": "How should I use GlowBoost Vitamin C Serum in my daily routine?",
-      "answer": "Apply 2–3 drops in the morning before sunscreen"
-    },
-    {
-      "question": "Can I use GlowBoost Vitamin C Serum in the morning?",
-      "answer": "Apply 2–3 drops in the morning before sunscreen"
-    },
-    {
-      "question": "Should I apply sunscreen after using GlowBoost Vitamin C Serum?",
-      "answer": "Apply 2–3 drops in the morning before sunscreen"
-    },
-    {
-      "question": "Can I use GlowBoost Vitamin C Serum with other skincare products?",
-      "answer": "Apply 2–3 drops in the morning before sunscreen"
-    },
-    {
-      "question": "Are there any side effects when using GlowBoost Vitamin C Serum?",
-      "answer": "Mild tingling for sensitive skin. Patch test before first use if your skin is sensitive."
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
+      "question": "Is this serum suitable for oily skin?",
+      "answer": "Yes, this serum is suitable for oily skin. According to the product information, it is specifically listed as compatible with oily skin type."
     }
-  ]
+  ],
+  "product_name": "GlowBoost Vitamin C Serum"
 }

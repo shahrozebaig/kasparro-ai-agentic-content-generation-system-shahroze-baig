@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import json
 from models.state_model import PipelineState
 from utils.llm_client import llm_generate
@@ -37,30 +36,3 @@ class ProductPageAgent:
         )
         state.logs.append("ProductPageAgent: generated product page")
         return state
-=======
-from typing import Dict, Any
-from models import Product
-from logic_blocks import (
-    generate_benefits_copy,
-    generate_usage_copy,
-    generate_safety_copy,
-    generate_ingredients_copy,
-)
-from templates import build_product_page
-
-class ProductPageAgent:
-    def run(self, product: Product) -> Dict[str, Any]:
-        benefits_copy = generate_benefits_copy(product)
-        usage_copy = generate_usage_copy(product)
-        safety_copy = generate_safety_copy(product)
-        ingredients_copy = generate_ingredients_copy(product)
-
-        page = build_product_page(
-            product=product,
-            benefits_copy=benefits_copy,
-            usage_copy=usage_copy,
-            safety_copy=safety_copy,
-            ingredients_copy=ingredients_copy,
-        )
-        return page
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd

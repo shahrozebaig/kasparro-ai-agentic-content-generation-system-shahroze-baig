@@ -1,7 +1,7 @@
 {
   "logs": [
     "ParserAgent: parsed product",
-    "QuestionGenerationAgent: generated 16 questions",
+    "QuestionGenerationAgent: generated 15 questions",
     "FAQAgent: generated 8 faqs",
     "ProductPageAgent: generated product page",
     "ComparisonAgent: generated comparison reasoning"

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 Kasparro – Multi-Agent AI Content Generation System
 
 ## 🧩 Problem Statement
@@ -14,13 +13,6 @@ The system must:
 * Produce deterministic JSON outputs
 
 The task explicitly avoids template-only scripts and requires an **AI-powered, agentic architecture** — not a monolithic or rule-based pipeline.
-=======
-# 🚀 Kasparro – Multi-Agent Content Generation System
-
-## 🧩 Problem Statement
-
-Design and implement a modular, production-style multi-agent automation system that takes a single structured product dataset as input and automatically generates machine-readable content pages in JSON format. The system must demonstrate proper agent boundaries, reusable logic blocks, template-driven generation, and a clear orchestration flow. The challenge explicitly avoids UI development, prompt-only solutions, and monolithic scripts, and instead focuses on systems engineering and automation design.
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
 
 ---
 

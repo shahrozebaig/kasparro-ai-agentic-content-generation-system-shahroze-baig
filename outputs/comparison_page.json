@@ -1,8 +1,4 @@
 {
-<<<<<<< HEAD
-=======
-  "page_type": "comparison",
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
   "product_a": {
     "product_name": "GlowBoost Vitamin C Serum",
     "concentration": "10% Vitamin C",
@@ -18,7 +14,6 @@
       "Brightening",
       "Fades dark spots"
     ],
-<<<<<<< HEAD
     "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
     "side_effects": "Mild tingling for sensitive skin",
     "price": 699.0,
@@ -33,21 +28,21 @@
     ],
     "key_ingredients": [
       "Niacinamide",
-      "Glycerin"
+      "Green Tea Extract"
     ],
     "benefits": [
-      "Improves skin elasticity",
-      "Reduces fine lines and wrinkles"
+      "Hydrating",
+      "Improves skin elasticity"
     ],
-    "how_to_use": "Apply 2–3 drops in the evening after cleansing and toning",
+    "how_to_use": "Apply 2–3 drops in the morning and evening, after toning but before moisturizing",
     "side_effects": "Mild redness for sensitive skin",
     "price": 899.0,
     "currency": "INR"
   },
-  "narrative": "GlowBoost Vitamin C Serum and Radiance Renewal Serum are two skincare products that cater to different skin types and concerns. GlowBoost is suitable for oily and combination skin, while Radiance Renewal is ideal for dry and sensitive skin. Both products have their unique benefits, with GlowBoost focusing on brightening and fading dark spots, and Radiance Renewal improving skin elasticity and reducing fine lines and wrinkles. In terms of price, Radiance Renewal is more expensive than GlowBoost. However, Radiance Renewal has a higher concentration of active ingredients, with 12% Niacinamide compared to GlowBoost's 10% Vitamin C.",
+  "narrative": "GlowBoost Vitamin C Serum and Radiance Renewal Serum are two distinct skincare products catering to different skin types and concerns. GlowBoost is suitable for oily and combination skin, providing brightening and dark spot-fading benefits. Radiance Renewal, on the other hand, is designed for dry and sensitive skin, focusing on hydration and skin elasticity improvement. While both products have their unique strengths, their concentrations and notable ingredients differ, making them suitable for different skin types and needs.",
   "comparison": {
-    "cheaper": "GlowBoost Vitamin C Serum (699.0 INR)",
-    "higher_concentration": "Radiance Renewal Serum (12% Niacinamide)",
+    "cheaper": "GlowBoost Vitamin C Serum",
+    "higher_concentration": "Radiance Renewal Serum",
     "better_for": [
       "Oily",
       "Combination",
@@ -55,82 +50,13 @@
       "Sensitive"
     ],
     "notable_ingredients": {
-=======
-    "price": {
-      "value": 699,
-      "currency": "INR"
-    }
-  },
-  "product_b": {
-    "product_name": "RadiantLift Vitamin C Serum",
-    "concentration": "10% Vitamin C",
-    "skin_type": [
-      "Oily",
-      "Combination"
-    ],
-    "key_ingredients": [
-      "Vitamin C",
-      "Aloe Vera"
-    ],
-    "benefits": [
-      "Brightening",
-      "Helps even out skin tone"
-    ],
-    "price": {
-      "value": 799,
-      "currency": "INR"
-    }
-  },
-  "comparison": {
-    "price": {
-      "GlowBoost Vitamin C Serum": {
-        "value": 699,
-        "currency": "INR"
-      },
-      "RadiantLift Vitamin C Serum": {
-        "value": 799,
-        "currency": "INR"
-      }
-    },
-    "concentration": {
-      "GlowBoost Vitamin C Serum": "10% Vitamin C",
-      "RadiantLift Vitamin C Serum": "10% Vitamin C"
-    },
-    "skin_type": {
-      "GlowBoost Vitamin C Serum": [
-        "Oily",
-        "Combination"
-      ],
-      "RadiantLift Vitamin C Serum": [
-        "Oily",
-        "Combination"
-      ]
-    },
-    "key_ingredients": {
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
       "GlowBoost Vitamin C Serum": [
         "Vitamin C",
         "Hyaluronic Acid"
       ],
-<<<<<<< HEAD
       "Radiance Renewal Serum": [
         "Niacinamide",
-        "Glycerin"
-=======
-      "RadiantLift Vitamin C Serum": [
-        "Vitamin C",
-        "Aloe Vera"
-      ]
-    },
-    "benefits": {
-      "GlowBoost Vitamin C Serum": [
-        "Brightening",
-        "Fades dark spots"
-      ],
-      "RadiantLift Vitamin C Serum": [
-        "Brightening",
-        "Helps even out skin tone"
->>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
+        "Green Tea Extract"
       ]
     }
   }
