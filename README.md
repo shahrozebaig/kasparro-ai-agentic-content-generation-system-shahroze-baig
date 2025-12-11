@@ -70,16 +70,6 @@ Outputs will still be saved into the **outputs** folder.
 
 ---
 
-### **5️⃣ Run Tests (Optional)**
-
-To verify output file creation:
-
-```
-pytest -q
-```
-
----
-
 ## 📝 Documentation
 
 For detailed system design documentation, see:
