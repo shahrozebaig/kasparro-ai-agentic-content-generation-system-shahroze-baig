@@ -1,0 +1,63 @@
+{
+  "product_a": {
+    "product_name": "GlowBoost Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Hyaluronic Acid"
+    ],
+    "benefits": [
+      "Brightening",
+      "Fades dark spots"
+    ],
+    "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
+    "side_effects": "Mild tingling for sensitive skin",
+    "price": 699.0,
+    "currency": "INR"
+  },
+  "product_b": {
+    "product_name": "Radiance Renewal Serum",
+    "concentration": "12% Niacinamide",
+    "skin_type": [
+      "Dry",
+      "Sensitive"
+    ],
+    "key_ingredients": [
+      "Niacinamide",
+      "Glycerin"
+    ],
+    "benefits": [
+      "Improves skin elasticity",
+      "Reduces fine lines and wrinkles"
+    ],
+    "how_to_use": "Apply 2–3 drops in the evening after cleansing and toning",
+    "side_effects": "Mild redness for sensitive skin",
+    "price": 899.0,
+    "currency": "INR"
+  },
+  "narrative": "GlowBoost Vitamin C Serum and Radiance Renewal Serum are two skincare products that cater to different skin types and concerns. GlowBoost is suitable for oily and combination skin, while Radiance Renewal is ideal for dry and sensitive skin. Both products have their unique benefits, with GlowBoost focusing on brightening and fading dark spots, and Radiance Renewal improving skin elasticity and reducing fine lines and wrinkles. In terms of price, Radiance Renewal is more expensive than GlowBoost. However, Radiance Renewal has a higher concentration of active ingredients, with 12% Niacinamide compared to GlowBoost's 10% Vitamin C.",
+  "comparison": {
+    "cheaper": "GlowBoost Vitamin C Serum (699.0 INR)",
+    "higher_concentration": "Radiance Renewal Serum (12% Niacinamide)",
+    "better_for": [
+      "Oily",
+      "Combination",
+      "Dry",
+      "Sensitive"
+    ],
+    "notable_ingredients": {
+      "GlowBoost Vitamin C Serum": [
+        "Vitamin C",
+        "Hyaluronic Acid"
+      ],
+      "Radiance Renewal Serum": [
+        "Niacinamide",
+        "Glycerin"
+      ]
+    }
+  }
+}
