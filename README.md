@@ -4,6 +4,14 @@ This project is a Python-based multi-agent AI content generation system designed
 
 ---
 
+## System Architecture
+
+<img width="1849" height="476" alt="Screenshot 2025-12-11 200206" src="https://github.com/user-attachments/assets/9b7930ae-9e18-45da-9595-089b518a9545" />
+
+<img width="2170" height="955" alt="Screenshot 2025-12-11 200343" src="https://github.com/user-attachments/assets/ae77ed71-378b-4a3c-ad61-2046635c383f" />
+
+---
+
 ## 🏃 How to Run the System
 
 Follow these steps to successfully run the Multi-Agent AI Content Generation System:
