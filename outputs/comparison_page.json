@@ -1,4 +1,8 @@
 {
+<<<<<<< HEAD
+=======
+  "page_type": "comparison",
+>>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
   "product_a": {
     "product_name": "GlowBoost Vitamin C Serum",
     "concentration": "10% Vitamin C",
@@ -14,6 +18,7 @@
       "Brightening",
       "Fades dark spots"
     ],
+<<<<<<< HEAD
     "how_to_use": "Apply 2–3 drops in the morning before sunscreen",
     "side_effects": "Mild tingling for sensitive skin",
     "price": 699.0,
@@ -50,13 +55,82 @@
       "Sensitive"
     ],
     "notable_ingredients": {
+=======
+    "price": {
+      "value": 699,
+      "currency": "INR"
+    }
+  },
+  "product_b": {
+    "product_name": "RadiantLift Vitamin C Serum",
+    "concentration": "10% Vitamin C",
+    "skin_type": [
+      "Oily",
+      "Combination"
+    ],
+    "key_ingredients": [
+      "Vitamin C",
+      "Aloe Vera"
+    ],
+    "benefits": [
+      "Brightening",
+      "Helps even out skin tone"
+    ],
+    "price": {
+      "value": 799,
+      "currency": "INR"
+    }
+  },
+  "comparison": {
+    "price": {
+      "GlowBoost Vitamin C Serum": {
+        "value": 699,
+        "currency": "INR"
+      },
+      "RadiantLift Vitamin C Serum": {
+        "value": 799,
+        "currency": "INR"
+      }
+    },
+    "concentration": {
+      "GlowBoost Vitamin C Serum": "10% Vitamin C",
+      "RadiantLift Vitamin C Serum": "10% Vitamin C"
+    },
+    "skin_type": {
+      "GlowBoost Vitamin C Serum": [
+        "Oily",
+        "Combination"
+      ],
+      "RadiantLift Vitamin C Serum": [
+        "Oily",
+        "Combination"
+      ]
+    },
+    "key_ingredients": {
+>>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
       "GlowBoost Vitamin C Serum": [
         "Vitamin C",
         "Hyaluronic Acid"
       ],
+<<<<<<< HEAD
       "Radiance Renewal Serum": [
         "Niacinamide",
         "Glycerin"
+=======
+      "RadiantLift Vitamin C Serum": [
+        "Vitamin C",
+        "Aloe Vera"
+      ]
+    },
+    "benefits": {
+      "GlowBoost Vitamin C Serum": [
+        "Brightening",
+        "Fades dark spots"
+      ],
+      "RadiantLift Vitamin C Serum": [
+        "Brightening",
+        "Helps even out skin tone"
+>>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
       ]
     }
   }

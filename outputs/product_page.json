@@ -15,9 +15,15 @@
     "Fades dark spots for Oily, Combination skin types"
   ],
   "usage_instructions": "Apply 2–3 drops in the morning before sunscreen",
+<<<<<<< HEAD
   "safety_information": "Mild tingling for sensitive skin Perform a patch test before full use, especially if you have sensitive skin.",
   "price": {
     "value": 699.0,
+=======
+  "safety_information": "Mild tingling for sensitive skin. Patch test before first use if your skin is sensitive.",
+  "price": {
+    "value": 699,
+>>>>>>> a45da5129a34f31c80f2a5e0334180f00f6b8dcd
     "currency": "INR"
   }
 }
